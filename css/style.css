@@ -142,4 +142,23 @@ footer{
    bottom:0;
    width:100%;
 }
+input{
+font-size:15px;
+padding-right:300px;
+padding-bottom:10px;
+}
+
+textarea{
+	padding-right:400px;
+	padding-bottom:200px;
+
+}
+#contact-submit{
+	background-color:#4aaaa5; 
+	color:white;
+	padding:10px 50px;
+	font-size:15px; 
+}
+
+
 
