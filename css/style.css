@@ -4,6 +4,7 @@ body{
 	background-color:#dddddd;
 
 
+
 }
 header{
 	font-family: 'Georgia', Times, Times New Roman, serif;
@@ -12,6 +13,7 @@ header{
     top: 0;
     width: 100%;
     z-index: 100;
+    position:fixed;
 	
 }
 h2{
@@ -132,15 +134,18 @@ float:left;
 }
 footer{
   clear:both;
+
   
   border-top: 10px solid #4aaaa5;
   padding:30px;
   background-color:#666666;
   text-align: center;
   color:white;
-  position:absolute;
+  
    bottom:0;
    width:100%;
+
+   position:fixed;
 }
 input{
 font-size:15px;
